@@ -166,7 +166,7 @@ p {
     .workGrid {
         display: grid;
         padding: 30px;
-        grid-template-rows: 300px 300px
+        grid-template-rows: 300px 300px;
         grid-template-columns: 1fr;
         grid-template-areas:
             "workImage"
